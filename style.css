@@ -8,6 +8,10 @@
     border: none
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 footer{
     text-align: center;
     color: white;
